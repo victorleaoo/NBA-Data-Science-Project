@@ -1,3 +1,9 @@
 # NBA Data Analysis
 
-In this repository, it's present a Jupyter Notebook in which there are some analysis based on NBA datasets.
+The [NBA](https://github.com/victorleaoo/NBA-Data-Science-Project/blob/main/NBA.ipynb) notebook available in this repository has some interesting analysis and insights about the following aspects/datasets:
+- 2017 Players Tattoos
+- 2021/2022 Players Stats
+  - Interesting facts
+  - MVP (Most Valuable Player)
+  - MIP (Most Improved Player)
+- NBA Finals and MVPs
